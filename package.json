@@ -1,0 +1,18 @@
+{
+  "name": "culture_instr_app",
+  "version": "1.0.0",
+  "description": "app for culture instruments",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arya hariharan",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^29.1.4"
+  },
+  "dependencies": {
+    "express": "^4.19.0"
+  }
+}
